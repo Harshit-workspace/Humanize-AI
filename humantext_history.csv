@@ -1,0 +1,38 @@
+﻿ID,Date,Prediction,AI Probability,Text Preview
+10,2026-11-18T20:16:25,Human-like patterns,44.0%,"hello
+this is harshit this side hope your are good i still cherish those moments which we together s"
+9,2026-11-17T22:30:10,AI-like patterns,51.2%,Learning programming has been an interesting experience for me. Sometimes I make mistakes in my code
+8,2026-11-17T22:29:39,Readability edit,,Learning programming has been an interesting experience for me. Sometimes I make mistakes in my code
+7,2026-11-17T22:27:53,Human-like patterns,45.7%,"import csv
+from pathlib import Path
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+fro"
+6,2026-11-17T22:27:37,Readability edit,,"import csv
+from pathlib import Path
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+fro"
+5,2026-11-17T21:33:18,Readability edit,,"Technology has changed the way students learn and communicate. Today, people can access educational "
+4,2026-11-17T21:32:35,Human-like patterns,47.1%,"Technology has changed the way students learn and communicate. Today, people can access educational "
+3,2026-11-17T21:23:46,Readability edit,,"Harshit Baghel
+
+India
+
+Email: harshit.aiit2407@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hars"
+2,2026-11-17T21:23:45,Readability edit,,"Harshit Baghel
+
+India
+
+Email: harshit.aiit2407@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hars"
+1,2026-11-17T21:23:29,Readability edit,,"Harshit Baghel
+
+India
+
+Email: harshit.aiit2407@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hars"
